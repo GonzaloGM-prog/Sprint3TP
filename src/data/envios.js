@@ -1,0 +1,1 @@
+export const ENVIO = { DOMICILIO: "domicilio", RETIRO: "retiro" };

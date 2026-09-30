@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  /* Paleta principal */
+  --color-primary: #7c3aed;       /* violet-700 — color de marca */
+  --color-primary-hover: #6d28d9; /* violet-800 */
+  --color-accent: #4ade80;        /* green-400 — badge y estados positivos */
+  --color-danger: #ef4444;        /* red-500 — acciones destructivas */
+
+  /* Tipografía */
+  --font-display: "Inter", sans-serif;
+}
