@@ -1,6 +1,8 @@
 # 🎮 Tienda de Videojuegos
 
-🔗 **Demo:** https://tu-app.netlify.app
+# 🔗 [Ver la app desplegada](https://remarkable-rugelach-949bb6.netlify.app)
+
+# 🎮 Tienda de Videojuegos
 
 ## Qué es
 
